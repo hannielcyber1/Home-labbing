@@ -1,4 +1,4 @@
-# 🏠 Homelab Overview
+# 🏠🖧 Homelab Overview
 -----------------------------------------------------------------------------------------------------------------------------
 
 This homelab is built around a **Proxmox virtualization server** hosting multiple Linux Containers (LXCs) and Virtual Machines(VMs) for security monitoring, private cloud storage, DNS filtering, password management, and cybersecurity testing.
@@ -27,7 +27,7 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 
 ---
 
-### 🖥️ Proxmox Virtualization Server
+### 🗄️ Proxmox Virtualization Server
 - **IP Address:** `192.168.8.3`
 - Main hypervisor hosting:
   - Linux Containers (LXCs)
@@ -130,7 +130,7 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 - Detection engineering
 - Windows security testing
 
-### Security Tooling
+### 🛠️Security Tooling
 - **Sysmon**
   - Advanced Windows event logging
 
@@ -163,4 +163,4 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 
 ---
 
-## Proxmox Server
+## 🗄️ Proxmox Server
