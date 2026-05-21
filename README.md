@@ -1,7 +1,7 @@
 # 🏠 Homelab Overview
 -----------------------------------------------------------------------------------------------------------------------------
 
-This homelab is built around a **Proxmox virtualization server** hosting multiple Linux containers (LXCs) and virtual machines for security monitoring, private cloud storage, DNS filtering, password management, and cybersecurity testing.
+This homelab is built around a **Proxmox virtualization server** hosting multiple Linux Containers (LXCs) and Virtual Machines(VMs) for security monitoring, private cloud storage, DNS filtering, password management, and cybersecurity testing.
 
 ---
 
@@ -41,6 +41,7 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 ---
 
 ## 📦 Linux Containers (LXC)
+
 
 ### 🛡️ AdGuard Home LXC
 - **IP Address:** `192.168.8.6`
@@ -161,3 +162,5 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 - Enterprise environment simulation
 
 ---
+
+## Proxmox Server
