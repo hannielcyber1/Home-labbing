@@ -89,6 +89,9 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 
 ### 📊 Wazuh SIEM LXC
 - **IP Address:** `192.168.8.11`
+
+  
+![Homelab](images/wazuh-2.png)
 - Purpose:
   - Security Information and Event Management (SIEM)
   - Centralized log collection and monitoring
@@ -99,6 +102,8 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 - Endpoint visibility
 - Log analysis
 - Security alerting
+
+![Homelab](images/wazuh-3.png)
 
 ---
 
@@ -164,3 +169,7 @@ This homelab is built around a **Proxmox virtualization server** hosting multipl
 ---
 
 ## 🗄️ Proxmox Server
+
+
+## Errors(with Solutions)🛠️ and Configurations I Made⚙️
+
