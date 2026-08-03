@@ -1,7 +1,7 @@
 # 🏠🖧 Homelab Overview
 -----------------------------------------------------------------------------------------------------------------------------
 
-This homelab is built around a **Proxmox Virtualization Server** hosting multiple Linux Containers (LXCs) and Virtual Machines(VMs) for security monitoring, private cloud storage, DNS filtering, password management, and cybersecurity testing.
+This homelab is built around a **Proxmox Virtualization Server** hosting multiple Linux Containers (LXCs) and Virtual Machines(VMs) for security monitoring, private cloud storage DNS filtering, password management, and cybersecurity testing.
 
 ---
 
